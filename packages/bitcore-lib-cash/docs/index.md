@@ -1,4 +1,4 @@
-# Bitcore Cash v8.3.0
+# Bitcore Cash v8.7.1
 
 ## Principles
 
